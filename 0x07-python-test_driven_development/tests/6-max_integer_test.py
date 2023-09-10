@@ -59,4 +59,5 @@ class TestMaxInteger(unittest.TestCase):
         self.assertEqual(max_integer(""), None)
 
 if __name__ == '__main__':
-   unittest.main()
+    unittest.main()
+
